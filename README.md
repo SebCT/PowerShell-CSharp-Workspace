@@ -1,1 +1,1 @@
-# Repository for some PowerShell scripts/modules and C# projects
+# PowerShell scripts/modules and C# projects
